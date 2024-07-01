@@ -1,4 +1,4 @@
-![1](C:\Users\26019\Documents\GitHub\apkdownload\1.png)
+![](1.png)
 
 ### 应用简介
 
