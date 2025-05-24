@@ -13,6 +13,12 @@
 
 ### 应用下载
 
+> ### Version 1.0.9
+
+​	优化PDF导出
+
+​	Download:  [app-release.apk](1.0.9/app-release.apk) 
+
 > ### Version 1.0.8
 
 ​	优化功能栏布局
