@@ -16,6 +16,12 @@
 
 ### 应用下载
 
+> ### Version 1.0.11
+
+​	新增pdf智能分页，不会再切割文字到不同的页面
+
+​	Download:  [app-release.apk](1.0.11/app-release.apk) 
+
 > ### Version 1.0.10
 
 ​	增加导出缩放设置功能
