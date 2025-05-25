@@ -13,6 +13,12 @@
 
 ### 应用下载
 
+> ### Version 1.0.10
+
+​	增加导出缩放设置功能
+
+​	Download:  [app-release.apk](1.0.10/app-release.apk) 
+
 > ### Version 1.0.9
 
 ​	优化PDF导出
